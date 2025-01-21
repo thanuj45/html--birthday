@@ -1,0 +1,29 @@
+h1{
+    color: aquamarine;
+    font-style: italic;
+    
+}
+
+p{
+    color: cornflowerblue;
+}
+h2{
+    color: darkolivegreen;
+}
+img{
+    height: 300px;
+    width: 300px;
+    
+}
+html{
+    background-image: url(./IMG_3313.jpeg);
+    background-size: cover ;
+    background-position: center;
+    height: 100vh;
+    margin: 0%;
+    padding: 0%;
+}
+footer{
+    color: green;
+}
+
